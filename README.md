@@ -1,2 +1,2 @@
 # Heranca
- criacao de classes e praticando herança
+ Atividade para praticar conceitos de herança
